@@ -1,0 +1,18 @@
+1
+створюємо віртуальне середовище
+python -m venv venv
+
+2
+Активуємо віртуальне середовище
+venv\Scripts\activate
+
+3
+pip install selenium
+
+selenium with python 
+
+------------------------------------------------------------------------
+https://youtu.be/GUhZe4yoIeA?list=PL2PN33KbuWfznQOHjroQE2Up6W1kDQ3vQ
+
+39 : 44
+------------------------------------------------------------------------
